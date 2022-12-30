@@ -23,7 +23,7 @@ axios.get('https://port19x.github.io/mensascrap/master.json')
 ```
 The Result
 
-<img src =".\img\Scraping Result.png">
+<img src ="Scraping Result.png">
 
  **It is important to mention that, the display information are not equal to the real information, we just create our own sample / test data.** 
 
