@@ -1,6 +1,6 @@
 # Gahlia DHBW
 
-<img src="./img/intro.png">
+<img src="./intro.png">
 
 Via this page it is possible to naviagte into all important documentation
 
