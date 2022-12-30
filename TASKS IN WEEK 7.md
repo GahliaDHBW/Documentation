@@ -1,4 +1,4 @@
-# TASKS in WEEK 6: Let Code for one more time
+# TASKS in WEEK 7: Let Code for one more time
 
 We  have already implement some of the key features in the App, this could be seen via the following images
 
