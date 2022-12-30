@@ -153,7 +153,7 @@ Here you can see our sequence diagrams for the the main scenarios in our project
 
 ## 7 Deployment View
 
-### coming soon 
+<img src ="dep.png">
 
 ## 8 Implementation View
 
