@@ -1,4 +1,4 @@
-# TASKS in WEEK 7: ASR analysis
+# TASKS in WEEK 8: ASR analysis
 
 
 This week we discussed the topic _Architecturally Significant Requirements_ and also we have identified the most important quality attributes for our project.
