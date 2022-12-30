@@ -52,6 +52,6 @@ The project architecture diagram shows how they communicate with each other. Gha
 
 **How it works?** 
 
-<img src =".\img\Arch.png">
+<img src ="Arch.png">
 
 
