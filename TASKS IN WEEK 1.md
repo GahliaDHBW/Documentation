@@ -68,7 +68,4 @@ Meetings
 - Daily: monday (15 min)
 - Weekly: friday (60 min)
 
----
-Best regards
 
-GahkiaDHBW Team
