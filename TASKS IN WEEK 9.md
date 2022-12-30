@@ -81,7 +81,7 @@ MVC:
 
 - Controller :JS functional component to organize the application cahes
 
-<img src =".\img\Arch App.png">
+<img src ="Arch App.png">
 
 #### Server 
 
@@ -95,7 +95,7 @@ MVC:
 
 - Controller: Falsk controler to control the API accessbility of the server and to refresh Model with the new data
 
-<img src =".\img\Arch Server.png">
+<img src ="Arch Server.png">
 
 
 #### Web Scraping service
@@ -110,31 +110,31 @@ MVC:
 
 - Controller: Github Action + Cloujure
 
-<img src =".\img\Arch WSS.png">
+<img src ="Arch WSS.png">
 
 ---
 
 #### The entire system could be displayed by the follwing image 
 
-<img src =".\img\Arch.png">
+<img src ="Arch.png">
 
 for more information, please see the Implementation View in point 8
 
 ## 4 Use-Case View
 
 General Use Case View
-<img src =".\img\UC.png">
+<img src ="UC.png">
 
 ### 4.1 Use-Case Realizations
 
-#### [👆 Show canteen list](https://github.com/user/repo/blob/branch/other_file.md)
+#### [👆 Show canteen list](https://github.com/GahliaDHBW/Documentation/blob/main/TASKS%20IN%20WEEK%204.1.md)
 
-#### [👆 Show canteens location](https://github.com/user/repo/blob/branch/other_file.md)
+#### [👆 Show canteens location](https://github.com/GahliaDHBW/Documentation/blob/main/TASKS%20IN%20WEEK%204.2.md)
 
 
 ## 5 Logical View
 
-<img src =".\img\CD.png">
+<img src ="CD.png">
 
 ### 5.1 Overview
 
