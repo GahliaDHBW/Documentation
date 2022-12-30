@@ -26,10 +26,10 @@ The aim of task 2 is agreing on out project	rules such as the Sprint lenght etc.
 ---
 ### User stories
 
-<img src="./img/User Stories.PNG">
+<img src="User Stories.png">
 
 ### Tasks
-<img src="./img/Tasks.PNG">
+<img src="Tasks.png">
 
 ---
 
