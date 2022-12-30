@@ -31,8 +31,4 @@ The aim of task 2 is agreing on out project	rules such as the Sprint lenght etc.
 ### Tasks
 <img src="Tasks.png">
 
----
 
-Best regards
-
-GahkiaDHBW Team
