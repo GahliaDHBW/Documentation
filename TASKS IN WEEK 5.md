@@ -4,7 +4,7 @@ Via our tech stack descion, drawing an Class Diagramm for the application was no
 
 Havong said that we convert it to something that look similar to what we have to achieve
 
-<img src =".\img\CD.png">
+<img src ="CD.png">
 
 
 
