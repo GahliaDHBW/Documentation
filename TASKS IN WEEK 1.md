@@ -63,10 +63,10 @@ Blog: For sharing Information with the others, we are going to use Github discus
 We plan and run our one week sprints via YouTrack in several meetings.
 
 Meetings
-Sprint Length: 2 weeks
-Sprint change meeting: on demand (120 min)
-Daily: monday (15 min)
-Weekly: friday (60 min)
+- Sprint Length: 2 weeks
+- Sprint change meeting: on demand (120 min)
+- Daily: monday (15 min)
+- Weekly: friday (60 min)
 
 ---
 Best regards
