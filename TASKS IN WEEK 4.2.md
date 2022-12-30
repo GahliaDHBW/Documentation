@@ -18,11 +18,11 @@ Cannteen list:
 
 **1.2 Mockup**
 
-<img src="./img/Mockup-2.png">
+<img src="Mockup-2.png">
 
 **1.3 Screenshot**
 
-<img src="./img/SH-2.png">
+<img src="SH-2.png">
 
 In the screenshot, we see that the user have to select the canteen and then he have to click map icon in the right bottom side on the screen. In order to use the canteen navigation feature. 
 
@@ -41,4 +41,4 @@ However in final version of the application, this feature is going as the we pla
 - The user click on the location marker
 
 #### Activity Diagram
-<img src="./img/AD-Map.png">
+<img src="AD-Map.png">
