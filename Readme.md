@@ -20,4 +20,5 @@ Via this page it is possible to naviagte into all important documentation
 
 ---
 Best regards
+
 Gahlia DHBW Team
