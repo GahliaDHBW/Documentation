@@ -29,7 +29,7 @@ Canteen list:
 ---
 We're going to develop the App in React Native with the Expo framework and we'll target Android as our Platform. To reaach this aim we use a list of technologies 
 
-<img src="./img/Tech stack.PNG">
+<img src="Tech stack.png">
 
 - GitHub: For version Control and for writting Blogs
 - Youtrack: For internal tickets, such as tasks, bugs and user stories
