@@ -19,11 +19,11 @@ Cannteen list:
 
 **1.2 Mockup**
 
-<img src="./img/show canteens-mcu.png">
+<img src="show canteens-mcu.png">
 
 **1.3 Screenshot**
 
-<img src="./img/1-SH.png">
+<img src="1-SH.png">
 
 There is a noticable different between the mockup and the screenshot, having said that we are developing the first version of the application. The last version of the application should be exactly the same as the the mockup version
 
@@ -38,5 +38,5 @@ There is a noticable different between the mockup and the screenshot, having sai
 - The canteens names are displayed  
 
 #### Activity Diagram
-<img src="./img/AD-Display Canteens.png">
+<img src="AD-Display Canteens.png">
 
