@@ -53,7 +53,7 @@ We would like to develop an easy-to-use Android app with all the necessary meal 
 
 ### 2.2 Use Case Diagram
 
-<img src =".\img\UC.png">
+<img src ="UC.png">
 
 ### 2.3 Technology Stack<a id="technologystack"></a>
 
@@ -92,7 +92,7 @@ This point structured below show the function of the application. In the coming 
 -  Routing the way to the canteens   
 
 
-#### 3.1.1 [👆 Show canteen list](https://github.com/user/repo/blob/branch/other_file.md)
+#### 3.1.1 [👆 Show canteen list](https://github.com/GahliaDHBW/Documentation/blob/main/TASKS%20IN%20WEEK%204.1.md)
 
 
 The user could see the meal list in the following canteens:
@@ -111,7 +111,7 @@ The user can see the meals of any day in the week
 
 The user can see the available food in every canteens in the point 3.1.1
 
-#### 3.1.4 [👆👆 Show canteens location](https://github.com/user/repo/blob/branch/other_file.md)
+#### 3.1.4 [👆👆 Show canteens location](https://github.com/GahliaDHBW/Documentation/blob/main/TASKS%20IN%20WEEK%204.2.md)
 
 
 This feature answers the question, where are the canteens  
@@ -126,7 +126,9 @@ This feature answers the question, what is the faster way to be the canteens or 
 
 ![image](https://user-images.githubusercontent.com/76824323/198707686-af520f1c-81cc-44e9-aa05-95ffb67059aa.png)
 
- <a href="https://github.com/GahliaDHBW/Gahlia/discussions/8">[see more information about it - via looking at the implementation of version 1.0 of the app]</a>
+ <a href="https://github.com/GahliaDHBW/Documentation/blob/main/TASKS%20IN%20WEEK%206.md">[see more information about it - via looking at the implementation of version 1.0 of the app]</a>
+
+ <a href="https://github.com/GahliaDHBW/Documentation/blob/main/TASKS%20IN%20WEEK%207.md">[see more information about it - via looking at the implementation of version 1.0 of the app]</a> 
 
 ### 3.2 Usability<a id="usability"></a>
 
